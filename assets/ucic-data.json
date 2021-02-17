@@ -1,0 +1,74 @@
+{
+    "profile": {
+        "chancellor_name" : "Dr. Chandra Lukita, SE. MM",
+        "address": "Jl. Kesambi No.202, Drajat, Kesambi, Kota Cirebon, Jawa Barat 45133",
+        "phone": "0231-200418",
+        "email": "info@cic.ac.id"
+    },
+    "overview": "Universitas Catur Insan Cendekia atau Universitas CIC Cirebon merupakan institusi pendidikan di bawah naungan Yayasan Catur Insan Cendekia (CIC) yang berdiri pada tahun 1999 dengan SK Mendiknas No. 123/D/0/1999 dengan Awaal Pendirian bernama STMIK CIC yang berkedudukan di Kota Cirebon, Provinsi Jawa Barat., Perubahan Bentuk Universitas CIC merupakan penggabungan dari Dua Institusi Pendidikan STMIK CIC dan AP CIC dsesuai SK Keputusan Menteri Riset, Teknologi, dan Pendidikan Tinggi Nomor 952/KPT/I/2019 tanggal 10 Oktober 2019 tentang Izin Penggabungan Akademi Perdagangan Catur Insan Cendekia di Kota Cirebon dan Sekolah Tinggi Manajemen Informatika dan Komputer CIC di Kota Cirebon Menjadi Universitas Catur Insan Cendekia di Kota Cirebon Provinsi Jawa Barat.\n\nSebagai jati diri universitas, Universitas CIC memiliki tekad bulat bersatu padu dan memiliki kepedulian terhadap dunia pendidikan untuk akselerasi (percepatan) perubahan (menjembatani) peningkatan kecerdasan, kesejahteraan, kemakmuran hidup kini dan di masa depan. Universitas CIC dijiwai semangat kebersamaan dalam melibatkan berbagai pihak untuk bekerjasama dalam penyelenggaraan pendidikan tinggi, berdasarkan keluhuran martabat manusia dan kelestarian lingkungan. Atas dasar semangat tersebut, Universitas CIC menyelenggarakan pendidikan tinggi dengan mewujudkan memelihara kesatuan tiga aspek pendidikan, yaitu Aspek Afektif, Aspek Kognitif, dan Aspek Psikomotorik.\n\nKomunitas akademik Universitas CIC menjalankan pendidikan dan pembelajaran, penelitian, serta pengabdian kepada masyarakat dengan memperhatikan secara sungguh-sungguh etika akademik. Dengan demikian sebagai komunitas akademik dan sekaligus komunitas etik, Universitas CIC berlandaskan pada kebebasan akademik dan otonomi keilmuan.\n\nDalam rangka mewujudkan pemikiran tersebut di atas, maka ditetapkan Statuta sebagai pedoman dasar penyelenggaraan Tridharma Perguruan Tinggi, baik dalam hal perencanaan, pelaksanaan, evaluasi, dan pengembangan, serta sebagai acuan dalam penerapan peraturan umum, peraturan akademik, dan prosedur operasional yang berlaku di Universitas CIC Cirebon.\n\nSumber: Wikipedia",
+    "opening_speech": "Assalamu'alaikum Wr.Wb.,\nSalam Sejahtera,\nPuji syukur ke hadirat Tuhan Yang Maha Esa, yang tidak henti-hentinya mencurahkan Rahmat dan HidayahNya bagi kita semua.\n\nKehadiran website Universitas CIC yang mudah diakses, akurat dan informatif, kiranya dapat mempermudah bagi keluarga besar civitas akademika Universitas CIC dan masyarakat luas untuk mendapatkan informasi tentang Universitas CIC, pendaftaran, Beasiswa, Sistem Informasi Manajemen Akademik (SIMAK), perpustakaan, kegiatan Olahraga, Iptek, Seni Budaya, Penelitian dan informasi lainnya.\n\nPendirian Universitas CIC diawali dengan berdirinya Lembaga Pendidikan Kursus dan Pelatihan CIC (dahulu Cirebon Institute of Computer) pada tanggal 13 Januari 1984, yang berarti sudah lebih dari 30 tahun secara konsisten dan komitmen berkiprah di dunia pendidikan. Pada tahun 1999 Lembaga Pendidikan CIC mengembangkan diri dengan mendirikan Sekolah Tinggi Manajemen Informatika dan Komputer Catur Insan Cendekia (STMIK CIC) dengan ijin operasional resmi dari Menteri Pendidikan Nasional nomer 123/D/O/1999 dan pada tanggal 21 Oktober 2019 STMIK CIC beralih status menjadi Universitas CIC yang telah disahkan oleh kemenristekdik. \n\nKonsistensi Universitas CIC sebagai IT (Information Technology) SCHOOL diharapkan mampu memberikan kontribusi positif berupa ilmu pengetahuan berbasis IT kepada dunia usaha dan industri serta mendukung langkah-langkah pemerintah daerah se-karesidenan Cirebon menuju Good Corporate Governance.\n\nUniversitas CIC sejak tahun 2005 telah mendapatkan akreditasi dari BAN-PT(Badan Akreditasi Perguruan Tinggi) untuk 4 (empat) program studi yang ada di lingkungan STMIK CIC,yaitu Program Studi Sistem Informasi, Program Studi Teknik Informatika, Program Studi Manajemen Informatika dan Program Studi Komputerisasi Akuntansi, sehingga STMIK CIC menjadi satu-satunya Perguruan Tinggi Komputer yang semua program studinya terakreditasi oleh BAN-PT dan proaktif untuk terus melakukan re-akreditasi pada setiap program studi yang ada di Universitas CIC.\n\nUniversitas CIC juga menjalankan perannya sebagai Knowledge based dengan melakukan kerjasama-kerjasama dengan dunia usaha dan industri serta pemerintah daerah se-karesidenan Cirebon, baik berupa kajian kurikulum berbasis PBL (Problem Based Learning), pengiriman tenaga praktisi untuk mengajar di Universitas CIC maupun penyaluran mahasiswa/i untuk praktek kerja lapang dan menyerap lulusan Universitas CIC serta menjadikan lulusan Universitas CIC sebagai wirausaha tangguh di era global.\n\nInsya Allah Universitas CIC mampu menjadi institusi pendidikan tinggi di Cirebon yang mampu menghasilkan sumber daya manusia yang siap bersaing dipasar global sesuai dengan Visi dan Misi Universitas CIC. Kami mohon dukungan dari semua pihak, terima kasih.\n\nWassalamu'alaikum Wr.Wb., Rektor Universitas CIC\n\nDr. Chandra Lukita, S.E., M.M",
+    "faculties": [
+        {
+            "code": "FTI",
+            "name": "Fakultas Teknologi Informasi",
+            "dean": "Marsani Asfi, M.Si",
+            "study_programs": [
+                {
+                    "name": "Teknik Informatika",
+                    "type": "bachelor",
+                    "chairman": "Kusnadi, M.Kom"
+                },
+                {
+                    "name": "Sistem Informasi",
+                    "type": "bachelor",
+                    "chairman": "Lena Magdalena, M.Si"
+                },
+                {
+                    "name": "Desain Komunikasi Visual",
+                    "type": "bachelor",
+                    "chairman": "Kusnadi, M.Kom"
+                },
+                {
+                    "name": "Manajemen Informatika",
+                    "type": "diploma",
+                    "chairman": "Wanda Ilham, M.Kom"
+                }
+            ]
+        },
+        {
+            "code": "FEB",
+            "name": "Fakultas Ekonomi & Bisnis",
+            "dean": "Dr (C). Ingrid Panjaitan, S.E., M.Sc., Ak., CA",
+            "study_programs": [
+                {
+                    "name": "Manajemen",
+                    "type": "bachelor",
+                    "chairman": "-"
+                },
+                {
+                    "name": "Akuntansi",
+                    "type": "bachelor",
+                    "chairman": "-"
+                },
+                {
+                    "name": "Komputerisasi Akuntansi",
+                    "type": "diploma",
+                    "chairman": "Suwandi, SE., MM"
+                },
+                {
+                    "name": "Manajemen Bisnis",
+                    "type": "diploma",
+                    "chairman": "Amroni, SE., MM"
+                }
+            ]
+        }
+    ],
+    "other_about": {
+        "vision": "Menjadi Universitas yang Unggul Dan Berprestasi di tingkat nasional, berbasis teknologi informasi dan berjiwa technopreneur pada tahun 2030.",
+        "mission": "1. Menyelenggarakan program pendidikan berbasis teknologi informasi yang bermutu dan unggul, berjiwa technopreneur, dan mendorong prestasi sivitas akademika di tingkat nasional.\n\n2. Menyelenggarakan program penelitian berbasis teknologi informasi yg berkualitas untuk meningkatkan keunggulan universitas, dosen dan mahasiswa di tingkat nasional.\n\n3. Menyelenggarakan program pengabdian kepada masyarakat berbasis teknologi informasi yang bermanfaat dan berdaya guna bagi pengembangan sumber daya manusia di komunitas dan masyarakat.\n\n4. Mengelola institusi dengan efektif dan efisien, dan meningkatkan kerjasama dengan industri/ UMKM untuk mengembangkan tridharma.",
+        "goals": {
+            "opening": "Tujuan strategis institusi dirumuskan dalam Rencana Strategis Perguruan Tinggi Universitas Catur Insan Cendekia, tujuan strategis yang ingin dicapai Universitas CIC adalah :\n\n",
+            "text": "1. Menghasilkan mahasiswa yang unggul dan berprestasi di tingkat nasional serta memiliki jiwa technopreneur.\n\n2. Menghasilkan sistem pembelajaran yang bermutu berbasis teknologi informasi.\n\n3. Menghasilkan dosen dan tenaga kependidikan yang bermutu dan kompeten dalam bidangnya.\n\n4. Menghasilkan penelitian dosen yang berkualitas dan memberi kontribusi bagi pengembangan riset di Indonesia.\n\n5. Menciptakan suasana akademik yang kondusif bagi pengembangan penelitian di institusi.\n\n6. Memberikan kontribusi positif bagi masyarakat melalu kegiatan pengabdian kepada masyarakat yang tepat dan bermanfaat.\n\n7. Mewujudkan tata pamong dan tata kelola organisasi yang efektif dan efisien.\n\n8. Menghasilkan kerjasama yang produktif dan bermanfaat bagi institusi dan industri/UMKM\n\n"
+        }
+    }
+}
