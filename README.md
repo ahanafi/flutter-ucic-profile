@@ -1,6 +1,11 @@
-# ucic_profile
+# UCIC Profile App
 
-A new Flutter project.
+A Simple company profile app that builth with Flutter.
+
+### Preview
+
+![Preview](https://raw.githubusercontent.com/ahanafi/flutter-ucic-profile/main/preview/preview.png)
+![Preview](https://raw.githubusercontent.com/ahanafi/flutter-ucic-profile/main/preview/preview-with-drawer.png)
 
 ## Getting Started
 
